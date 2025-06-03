@@ -28,14 +28,16 @@
 ## 📌팀원 소개
 ### D103 - 호구미와트
 
-| 이름    | 역할  |  파트 |
-| ------ | ------ |  ---|
-| **장홍준**  | 팀장 |  Android, UWB |   
-| **이상혁** | 팀원 |  Android, WearOS |      
-| **서정후** |  팀원 |  Android |     
-| **서미지** | 팀원 |  백엔드, 인프라, 제스처 |  
-| **이사랑** | 팀원 | 백엔드, 제스처  |  
- | **이승지** | 팀원 | 백엔드, 제스처 |  
+| <div align="center" style="display: flex; align-items: center; justify-content: center; height: 100px;">장홍준</div> |  <div align="center" style="display: flex; align-items: center; justify-content: center; height: 100px;">서정후</div> | <div align="center" style="display: flex; align-items: center; justify-content: center; height: 100px;">이상혁</div> |
+|:---------:|:---------:|:---------:|
+| [<img src="https://avatars.githubusercontent.com/ajang369" height=200 width=200> <br/> @ajang369](https://github.com/ajang369) | [<img src="https://avatars.githubusercontent.com/bluemango0312" height=200 width=200> <br/> @bluemango0312](https://github.com/bluemango0312)  | [<img src="https://avatars.githubusercontent.com/hyuksanglee" height=200 width=200> <br/> @hyuksanglee](https://github.com/hyuksanglee) |
+| 팀장, Android, UWB | Android | Android, WearOS | 
+
+| <div align="center" style="display: flex; align-items: center; justify-content: center; height: 100px;">서미지</div> | <div align="center" style="display: flex; align-items: center; justify-content: center; height: 100px;">이사랑</div> | <div align="center" style="display: flex; align-items: center; justify-content: center; height: 100px;">이승지</div> |
+|:--------:|:---------:|:---------:|
+| [<img src="https://avatars.githubusercontent.com/itsanisland" height=200 width=200> <br/> @itsanisland](https://github.com/itsanisland) | [<img src="https://avatars.githubusercontent.com/ipcp365" height=200 width=200> <br/> @ipcp365](https://github.com/ipcp365) | [<img src="https://avatars.githubusercontent.com/bmlsj" height=200 width=200> <br/> @bmlsj](https://github.com/bmlsj) |
+| BE, Infra, 제스처 AI | BE, 제스처 AI | BE, 제스처 AI |
+
 
 <br>
 
@@ -153,9 +155,7 @@ RUMOS는 이러한 불편을 해결하기 위해 시작되었습니다.
 - [ERD 다이어그램](docs/Lumos-ERD.png)
 - [시스템 아키텍처](docs/architecture.png)
 - [시연 영상](https://www.youtube.com/watch?v=rohFAwGDQHM)
-- [중간 발표 PPT]()
-- [최종 발표 PPT]()
-
+- 
 
 <br>
 
@@ -234,8 +234,8 @@ RUMOS는 이러한 불편을 해결하기 위해 시작되었습니다.
   → 제스처 설정, 루틴 예시, 기기 연동 방법 등 안내
 - 앱 접근 권한 요청(블루투스, 위치 등) 및 사용 목적 설명 포함
 
-<img src="docs/gif/login.gif" width="250" />
-<img src="docs/gif/onboarding.gif" width="200" />
+<img src="gif/login.gif" width="250" />
+<img src="gif/onboarding.gif" width="200" />
 
 
 ### 2. 스마트싱스(SmartThings) 연동을 통한 통합 제어
@@ -243,7 +243,7 @@ RUMOS는 이러한 불편을 해결하기 위해 시작되었습니다.
 - 스마트폰과 워치 모두에서 동일한 기기 목록 및 기기 상태를 실시간으로 확인 및 제어 가능
 - 앱 하나로 다양한 디바이스를 통합 관리 가능
 
-<img src="docs/gif/smartthings.gif" width="200" />
+<img src="gif/smartthings.gif" width="200" />
 
 ### 3. 기기 상태 확인 및 기기 제어 
 - 갤럭시 스마트폰과 워치에서 SmartThings 기기의 기본 기능(전원, 밝기 등) 제어 가능
@@ -259,8 +259,8 @@ RUMOS는 이러한 불편을 해결하기 위해 시작되었습니다.
 
 3) **휴대폰 제어**
 
-<img src="docs/gif/audio_control.gif" width="200" />
-<img src="docs/gif/light_control_fast.gif" width="250" />
+<img src="gif/audio_control.gif" width="200" />
+<img src="gif/light_control_fast.gif" width="250" />
 
 ### 4. 제스처 테스트 화면
 
@@ -269,7 +269,7 @@ RUMOS는 이러한 불편을 해결하기 위해 시작되었습니다.
 3. 제스처 수행 ▶︎ 폰 화면에서 결과 확인
 
 - 휴대폰 화면
-<img src="docs/gif/gesture.gif" width="250" />
+<img src="gif/gesture.gif" width="250" />
 
 
 - 워치 테스트 화면
@@ -283,7 +283,7 @@ RUMOS는 이러한 불편을 해결하기 위해 시작되었습니다.
 
 | 루틴 생성 |  루틴 수정 | 루틴 삭제 |
 |---|---|---|
-| <img src="docs/gif/routine_create.gif" width="250" /> | <img src="docs/gif/routine_update.gif" width="250" /> | <img src="docs/gif/routine_delete.gif" width="200" /> |
+| <img src="gif/routine_create.gif" width="250" /> | <img src="gif/routine_update.gif" width="250" /> | <img src="gif/routine_delete.gif" width="200" /> |
 
 
 
