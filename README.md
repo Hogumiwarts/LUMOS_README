@@ -155,7 +155,7 @@ RUMOS는 이러한 불편을 해결하기 위해 시작되었습니다.
 - [ERD 다이어그램](docs/Lumos-ERD.png)
 - [시스템 아키텍처](docs/architecture.png)
 - [시연 영상](https://www.youtube.com/watch?v=rohFAwGDQHM)
-- 
+
 
 <br>
 
@@ -167,7 +167,7 @@ RUMOS는 이러한 불편을 해결하기 위해 시작되었습니다.
 - 동일 기종 기기가 여러 대 있을 경우에도 정확한 대상 지정 가능
 - 리스트 탐색 없이 직관적 공간 제어 구현
 
-<img src="docs/gif/uwb.gif" width="200" />
+<img src="gif/uwb.gif" width="200" />
 
 
 ### 2. 워치를 활용한 스마트 싱스 기기 제어 
